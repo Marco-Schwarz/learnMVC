@@ -1,7 +1,6 @@
 ﻿/.env
 .idea
 /yarn-error.log
-package.json
 yarn.lock
 babel.config.js
 package-lock.json
